@@ -15,7 +15,7 @@ The Skill-Barter Platform is a web application where users can trade skills with
 - **Frontend:** Next.js, Tailwind CSS
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
-- **Authentication:** JWT or Firebase
+- **Authentication:** JWT
 - **Real-time:** WebSocket
 
 ## 📦 Project Setup
